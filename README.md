@@ -1,17 +1,16 @@
 # 데이터 엔지니어로 이직을 위한 공부방
 
-###Language
+### Language
 Java
 Python
 
-### 기본 지식
-###Data
+### Data
 Spark
 Kafka
 Airflow
 SQL
 
-###Database
+### Database
 Oracle
 Mongo
 
@@ -19,7 +18,7 @@ Mongo
 Linux
 Docker
 
-#Algorithm
+### Algorithm
 
 
 
